@@ -1,6 +1,6 @@
 # This application will read a salary and give a 15% boost
 
-salary = float(input('Enter the salary: '))
+salary = float(input('Enter the salary: $'))
 
 new_salary = salary * 1.15
 
