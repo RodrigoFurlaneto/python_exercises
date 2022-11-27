@@ -1,4 +1,4 @@
-number = float(input('Type how much money you have: '))
+number = float(input('Type how much money you have: R$'))
 
 converter = number / 5.41
 
